@@ -1,0 +1,24 @@
+.progress-bar {
+  margin-top: 5px;
+  position: relative;
+  height: 35px;
+  width: 300px;
+  border-radius: 79px;
+  border: 1px solid #333;
+}
+
+.button {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.dropdown {
+  width: 100px;
+}
+
+.filler {
+  background: #1da598;
+  height: 100%;
+  border-radius: inherit;
+  transition: width 0.2s ease-in;
+}
